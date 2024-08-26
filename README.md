@@ -25,7 +25,7 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechen
    - https://jbtronic.medium.com/how-to-run-your-flutter-app-on-physical-android-device-248e7fb91404
    - https://docs.flutter.dev/platform-integration/android/install-android/install-android-from-windows
 
-   Sonst kannst du die App auch auf einem Emulator laufen lassen. Hier eine Anleitung dazu:
+###   f) Sonst kannst du die App auch auf einem Emulator laufen lassen. Hier eine Anleitung dazu:
    - https://docs.flutter.dev/platform-integration/android/install-android/install-android-from-windows
 
 
