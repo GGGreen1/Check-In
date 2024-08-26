@@ -1,16 +1,5 @@
-# sqflite_test_3
+# Check In
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Die Grundidee der App ist, dass man die Anweseneit von Kursteilnehmern durch z.B. einen Studentenausweis überprüfen kann. 
+Zunächst kann man dafür verschiedene Kurse anlegen. Zu den Kursen kann man dann Teilnehmern hinzufügen. Um später die Anwesenheit der Teilnehmern mit dem Studentenausweis überprüfen kann, muss man den Ausweis auch beim Erstellen des Teilnehmers scannen. 
+Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechenden Kurs auswählen und die Teilnehmer können ihren Studentenausweis an das Handy halten. Dieses ließt dann den NFC-Tag aus und kreuzt die Persoenen als anwesend an. 
