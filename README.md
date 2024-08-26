@@ -6,13 +6,13 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechen
 
 # So kann man die App ausprobieren
 
-1. APK runterladen
+##1. APK runterladen
    Der einfachste Weg ist, sich die APK runterzuladen und auf seinem Handy auszuführen.
    Hier kann man sich die APK runterladen: 
    Das geht aber leider nur für Android Handys.
-2. App auf Handy oder Emulator laufen
-   a) Lade Android Studio runter: https://developer.android.com/studio?hl=de
-   b) Jetzt kannst du das Repository runterladen:
+##2. App auf Handy oder Emulator laufen
+   ###a) Lade Android Studio runter: https://developer.android.com/studio?hl=de
+   ###b) Jetzt kannst du das Repository runterladen:
    ![image](https://github.com/user-attachments/assets/4c5f1159-61dc-4ed4-a7f8-801ed33c128b)
    ![image](https://github.com/user-attachments/assets/1026d829-ec07-4900-a3c0-bbf17c238897)
    Entpacke dann die zip-Datei.
