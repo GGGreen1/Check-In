@@ -21,7 +21,7 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechen
    oder:
    ![image](https://github.com/user-attachments/assets/bc432b57-d6c1-4238-8567-71e77395b01d)
 
-###   e) Wenn du selst ein Android Gerät hast, kannst du es einfach mit deinem PC verbinden und die App darauf starten. Dazu hier zwei Anleitungen:
+###   e) Wenn du selbst ein Android Gerät hast, kannst du es einfach mit deinem PC verbinden und die App darauf starten. Dazu hier zwei Anleitungen:
    - https://jbtronic.medium.com/how-to-run-your-flutter-app-on-physical-android-device-248e7fb91404
    - https://docs.flutter.dev/platform-integration/android/install-android/install-android-from-windows
 
