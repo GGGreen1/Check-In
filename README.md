@@ -13,17 +13,17 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechen
    Das geht aber leider nur für Android Handys.
 ## 2. APK auf PC laufen
    Ihr könnt die App auch auf eurem PC laufen lassen. Da euer PC vermutlich keinen NFC-Scanner hat, könnt ihr dann aber die Funktion, dass man Studentenausweise scannen kann leider nicht benutzen :(
-   a) Die APK könnt ihr euch über diesen Link runterladen: https://www.upload-apk.com/5YZu4518BNWeNf6
-   b) Dann ladet euch BlueStacks runter.
+###   a) Die APK könnt ihr euch über diesen Link runterladen: https://www.upload-apk.com/5YZu4518BNWeNf6
+###   b) Dann ladet euch BlueStacks runter.
 
-   Entweder hier: https://www.bluestacks.com/de/bluestacks-x.html
+###   Entweder hier: https://www.bluestacks.com/de/bluestacks-x.html
    
-   Oder hier noch eine Anleitung für Mac: https://support.bluestacks.com/hc/de/articles/360000736632-Wie-kann-ich-BlueStacks-auf-macOS-installieren-und-ausf%C3%BChren
+###   Oder hier noch eine Anleitung für Mac: https://support.bluestacks.com/hc/de/articles/360000736632-Wie-kann-ich-BlueStacks-auf-macOS-installieren-und-ausf%C3%BChren
    
-   c) Jetzt könnt ihr innerhalt von BlueStacks die APK hochladen und die App ausprobieren:)
-   Wie das geht ist hier beschrieben: https://support.bluestacks.com/hc/de/articles/11054623928717-So-installierst-du-eine-APK-auf-BlueStacks-X
+###   c) Jetzt könnt ihr innerhalt von BlueStacks die APK hochladen und die App ausprobieren:)
+###   Wie das geht ist hier beschrieben: https://support.bluestacks.com/hc/de/articles/11054623928717-So-installierst-du-eine-APK-auf-BlueStacks-X
    
-   Beachtet, dass aus irgendeinem Grund einen kleinen Bug beim dem scann-Button gibt. Der scann-Button ändert nicht Farbe und Icon. Vermutlich liegt es am fehlenden NFC-Scanner.
+###   Beachtet, dass aus irgendeinem Grund einen kleinen Bug beim dem scann-Button gibt. Der scann-Button ändert nicht Farbe und Icon. Vermutlich liegt es am fehlenden NFC-Scanner.
    ![Recording-2024-09-12-195226-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5468142-004e-432b-b384-c8c312a26a9d)
 ## 3. App auf Handy oder Emulator laufen
 ###   a) Lade Android Studio runter: https://developer.android.com/studio?hl=de
