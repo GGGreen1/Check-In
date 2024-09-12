@@ -15,9 +15,12 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den enrsprechen
    Die APK könnt ihr euch über diesen Link runterladen: https://www.upload-apk.com/5YZu4518BNWeNf6
    Dann ladet euch BlueStacks runter.
    Entweder hier: https://www.bluestacks.com/de/bluestacks-x.html
+   
    Oder hier noch eine Anleitung für Mac: https://support.bluestacks.com/hc/de/articles/360000736632-Wie-kann-ich-BlueStacks-auf-macOS-installieren-und-ausf%C3%BChren
+   
    Jetzt könnt ihr innerhalt von BlueStacks die APK hochladen und die App ausprobieren:)
    Wie das geht ist hier beschrieben: https://support.bluestacks.com/hc/de/articles/11054623928717-So-installierst-du-eine-APK-auf-BlueStacks-X
+   
    Beachtet, dass aus irgendeinem Grund einen kleinen Bug beim dem scann-Button gibt. Der scann-Button ändert nicht Farbe und Icon. Vermutlich liegt es am fehlenden NFC-Scanner. https://github.com/user-attachments/assets/0f5dd7d2-d1ef-4cd9-8461-8b843dc15d39
 ## 3. App auf Handy oder Emulator laufen
 ###   a) Lade Android Studio runter: https://developer.android.com/studio?hl=de
