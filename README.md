@@ -23,7 +23,7 @@ Wenn alle Teilnehmer in den Kurs eingetragen sind, kann man dann den entsprechen
 ###   c) Jetzt könnt ihr innerhalb von BlueStacks die APK hochladen und die App ausprobieren:)
    Wie das geht ist hier beschrieben: https://support.bluestacks.com/hc/de/articles/11054623928717-So-installierst-du-eine-APK-auf-BlueStacks-X
    
-###   Beachtet, dass aus irgendeinem Grund einen kleinen Bug beim dem Scann-Button gibt. Der Scann-Button ändert nicht die Farbe und das Icon. Vermutlich liegt es am fehlenden NFC-Scanner.
+###   Beachtet, dass es einen kleinen Bug bei dem Scann-Button gibt. Der Scann-Button ändert nicht die Farbe und das Icon. Vermutlich liegt es am fehlenden NFC-Scanner.
    ![Recording-2024-09-12-195226-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5468142-004e-432b-b384-c8c312a26a9d)
 ## 3. App auf Handy oder Emulator laufen
 ###   a) Lade Android Studio runter: https://developer.android.com/studio?hl=de
